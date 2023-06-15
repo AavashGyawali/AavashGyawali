@@ -31,7 +31,7 @@ I am a Computer engineering Student.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,,python,sql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,git,c,cpp,flutter,discord,tensorflow,mysql" />
   </a>
 </p>
 
