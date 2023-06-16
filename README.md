@@ -23,8 +23,8 @@ I am a Computer engineering Student.
 - 👀 I’m interested in Web Development,Machine Learning.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking for opportunities to learn in Web Development and Machine Learning.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aavashgyawali/), [Twitter](https://twitter.com/aavashuzumaki), [Facebook](https://www.facebook.com/aavashgyawali12){:target="_blank"},[Instagram](https://www.instagram.com/aavashgyawali/)
-
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aavashgyawali/), [Twitter](https://twitter.com/aavashuzumaki), [Facebook](https://www.facebook.com/aavashgyawali12),[Instagram](https://www.instagram.com/aavashgyawali/)
+-<a href="aavashgyawali.com.np" target="_blank">Hello, world!</a>
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
