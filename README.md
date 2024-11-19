@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Computer engineering Student.
+I am a Computer engineering.
 
-- 👀 I’m interested in Web Development,Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking for opportunities to learn in Web Development and Machine Learning.
+- 👀 I’m interested in Web Development,Machine Learning and App Development.
+- 🌱 I’m currently learning Machine Learning, web development and Development.
+- 💞️ I’m looking for opportunities to learn in Web Development,Machine Learning and App development.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aavashgyawali/), [Twitter](https://twitter.com/aavashuzumaki), [Facebook](https://www.facebook.com/aavashgyawali12), [Instagram](https://www.instagram.com/aavashgyawali/)
 
 ---
